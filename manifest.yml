@@ -1,5 +1,5 @@
 ---
 applications:
- - name: simple-toolchain-20210808145230617
+ - name: movies-reviews-database
    random-route: false
    memory: 256M
